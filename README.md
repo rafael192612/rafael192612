@@ -1,8 +1,5 @@
 # Olá,👋
-
-🎓 Estudante de Ciência da Computação  
-💻 Desenvolvedor Full Stack em formação  
-🔐 Apaixonado por Segurança da Informação e desenvolvimento de sistemas
+💻 Desenvolvedor Full Stack em formação, construindo sistemas e transformando ideias em projetos reais. 
 
 ---
 
